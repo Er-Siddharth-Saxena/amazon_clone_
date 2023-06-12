@@ -1,2 +1,2 @@
 # amazon_clone_
-to learn react
+to explore React framework
